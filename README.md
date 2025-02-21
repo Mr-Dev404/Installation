@@ -14,14 +14,14 @@
 git clone https://github.com/Mr-Dev404/Installation.git
 ```
 
-<p>2. then :</p>
-
-```
-cd Installation && python3 install.py
-```
-
 <p>3. for install python in termux :</p>
 
 ```
 pkg install python -y
+```
+
+<p>3. then :</p>
+
+```
+cd Installation && python3 install.py
 ```
