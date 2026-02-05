@@ -1,0 +1,1 @@
+vless://f6c27342-0690-411f-a439-138343767739@us.mrkiller90.fun:50951?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#amirreza
